@@ -19,11 +19,11 @@ navbar:
   right:
     - icon: fa-envelope 
       href: mailto:lforando@smith.edu
-    - icon: fa-github
+    - icon: fab fa-github
       href: https://github.com/lforando
-    - icon: fa-linkedin
+    - icon: fab fa-linkedin
       href: https://www.linkedin.com/in/lauren-forando
-    - icon: fa-youtube
+    - icon: fab fa-youtube
       href: https://www.youtube.com/channel/UC18v9_pSrs7AtnDOJYzO_jw
 
 output:
