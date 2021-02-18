@@ -1,7 +1,7 @@
 name: "www"
 output_dir: "../docs"
 navbar:
-  title: "Your Name"
+  title: "Lauren Forando"
   left:
     - text: "Home"
       icon: fa-home
@@ -18,13 +18,13 @@ navbar:
           href: post2.html
   right:
     - icon: fa-envelope 
-      href: mailto:bbaumer@smith.edu
+      href: mailto:lforando@smith.edu
     - icon: fa-github
-      href: http://www.github.com/beanumber
-    - icon: fa-twitter
-      href: http://www.twitter.com/BaumerBen
+      href: https://github.com/lforando
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/ben-baumer-809b3a75
+      href: https://www.linkedin.com/in/lauren-forando
+    - icon: fa-youtube
+      href: https://www.youtube.com/channel/UC18v9_pSrs7AtnDOJYzO_jw
 
 output:
   html_document:
