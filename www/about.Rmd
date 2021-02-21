@@ -1,6 +1,6 @@
 ---
 title: "About Me"
----
+--- 
 
 ![](/Users/lforando/rmarkdown_web/images/profile_pic.jpg){width=50%}
 
