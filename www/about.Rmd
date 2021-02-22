@@ -2,7 +2,7 @@
 title: "About Me"
 --- 
 
-![](~/rmarkdown_web/images){width=50%} 
+![](~/rmarkdown_web/images/profile_pic.jpg){width=50%} 
 
 
 $\color{hotpink}{\text{Lauren Forando}}$
