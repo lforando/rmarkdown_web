@@ -22,12 +22,10 @@ navbar:
       href: https://github.com/lforando
     - icon: fab fa-linkedin
       href: https://www.linkedin.com/in/lauren-forando
-    - icon: fab fa-youtube
-      href: https://www.youtube.com/channel/UC18v9_pSrs7AtnDOJYzO_jw
 
 output:
   html_document:
-    theme: lumen
-    highlight: pygments
+    theme: cosmo
+    highlight: tango
     toc: true
     toc_float: true
