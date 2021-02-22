@@ -2,7 +2,7 @@
 title: "About Me"
 --- 
 
-![](images/lauren.JPG)
+![](images/lauren.JPG){size=60%}
 
 $\color{hotpink}{\text{Lauren Forando}}$
 
