@@ -2,7 +2,7 @@
 title: "About Me"
 --- 
 
-![ ](profile_pic.jpg){width=50%}
+![](images/lauren.JPG)
 
 $\color{hotpink}{\text{Lauren Forando}}$
 
