@@ -2,9 +2,7 @@
 title: "About Me"
 --- 
 
- <img src="images/lauren.JPG" height="100" width="100">
- 
-![](images/lauren.JPG){size=30%}
+ <img src="images/lauren.JPG" height="100" width="200">
 
 <font size = "4">$\color{hotpink}{\text{Lauren Forando}}$</font>
 
