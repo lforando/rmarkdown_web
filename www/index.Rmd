@@ -1,10 +1,12 @@
 ---
 title: "Welcome to my website!"
-subtitle: "This website was created by Lauren Forando, a data science and psychology student at Smith College."
 output:
   html_document:
     toc: false
 ---
+
+<font size = "3">$\color{lightblue}{\text{This website was created by Lauren Forando, a data science and psychology student at Smith College.}}$</font>
+
 
 ![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 
