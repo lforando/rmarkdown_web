@@ -7,8 +7,8 @@ output:
 
 <font size = "4">$\color{#5CB3FF}{\text{This website was created by Lauren Forando, a data science and psychology student at Smith College.}}$</font>
 
+<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" height="300" width="300">
 
-![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 
 <p>&nbsp;</p>
 

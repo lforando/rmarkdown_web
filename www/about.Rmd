@@ -1,8 +1,7 @@
 ---
 title: "About Me"
 --- 
-
-<img src="images/lauren.JPG" size="50%">
+![](images/lauren.JPG){width=50%, height=50%}
 
 <font size = "4">$\color{hotpink}{\text{Lauren Forando}}$</font>
 
@@ -23,6 +22,8 @@ When I’m not studying, I enjoy sailing, crafting, and baking. I am also an act
  
 <p>&nbsp;</p>
 
+<img src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" height="200" width="200" style="float: right">
+
 ### Interests
 
   - Machine Learning
@@ -31,10 +32,8 @@ When I’m not studying, I enjoy sailing, crafting, and baking. I am also an act
   - AI
   - Privacy Ethics
 
-<p>&nbsp;</p>
 
 
- <img src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" height="200" width="200" style="float: left;">
- 
+
 
 
