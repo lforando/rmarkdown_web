@@ -14,6 +14,7 @@ When I’m not studying, I enjoy sailing, crafting, and baking. I am also an act
 
 
 Interests:
+
   - Machine Learning
   - Domain Bias
   - Female Representation in Tech
@@ -22,5 +23,5 @@ Interests:
   
 Check out my coding playlist [here](https://open.spotify.com/playlist/7AYUKJwDYLbKO4LYWcnscF?si=re3FM6LSRT6udGMF2HQ81g&nd=1) 
 
-r emo::ji("smile")
-r emo::ji("heart")
+emo::ji("smile")
+emo::ji("heart")
