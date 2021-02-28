@@ -2,6 +2,8 @@
 title: "About Me"
 --- 
 
+ <img src="images/lauren.JPG" height="100" width="100">
+ 
 ![](images/lauren.JPG){size=30%}
 
 <font size = "4">$\color{hotpink}{\text{Lauren Forando}}$</font>
@@ -33,5 +35,7 @@ When I’m not studying, I enjoy sailing, crafting, and baking. I am also an act
 
 <p>&nbsp;</p>
 
-![](https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif)
+ <img src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" alt="Smiley face" height="175" width="175">
+ 
+
 

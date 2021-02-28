@@ -4,9 +4,9 @@ title: "Blog Post #2 - Bring Back the Bodies"
 <p>&nbsp;</p>
 
 ### **No Data, No Problem?**
-##### *Missing data doesn't always indicate that there isn't a problem, it just means we are going about it the wrong way.*
+#### *Missing data doesn't always indicate that there isn't a problem, it just means we are going about it the wrong way.*
 
- ![](https://media.istockphoto.com/vectors/black-pregnant-woman-with-nature-and-leaves-background-concept-vector-vector-id1171915511?k=6&m=1171915511&s=612x612&w=0&h=E2W2pwjc3buDMEPO9o88t3RgGLEm-5RM4p4X1Lse_gU=){size=15%}
+ <img src="https://media.istockphoto.com/vectors/black-pregnant-woman-with-nature-and-leaves-background-concept-vector-vector-id1171915511?k=6&m=1171915511&s=612x612&w=0&h=E2W2pwjc3buDMEPO9o88t3RgGLEm-5RM4p4X1Lse_gU=" alt="Smiley face" height="300" width="300">
  
   |   Chapter 1, *Bring Back the Bodies*, was incredibly eye opening to me as well as disturbing. We all hear stories about women having complications during childbirth, but not to the extent Black women have faced. Additionally, it is astonishing that something like this can be so prevalent yet there is no documentation of the complications these women experience. How can we acknowledge and fix a structural problem when it is not documented? An important aspect is the intersection of classism and racism. Individuals who have more money are able to afford better doctors, prenatal care, and have the ability to request and afford additional tests to ensure the best health for both them and their child. 
  
