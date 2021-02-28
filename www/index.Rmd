@@ -1,11 +1,12 @@
 ---
-title: "Hello! Welcome to my website"
+title: "Welcome to my website"
+subtitle: "This website was created by Lauren Forando, a data science and psychology student at Smith College."
 output:
   html_document:
     toc: false
 ---
 
-![](https://media.giphy.com/media/9ADoZQgs0tyww/giphy.gif)
+![](https://giphy.com/gifs/justin-hSLDN6zfh2Yy4ekMWi)
 
 
 
