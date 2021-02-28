@@ -4,7 +4,7 @@ title: "About Me"
 
 ![](images/lauren.JPG){size=50%}
 
-<font size = "10">$\color{hotpink}{\text{Lauren Forando}}$</font>
+<font size = "4">$\color{hotpink}{\text{Lauren Forando}}$</font>
 
 `r emo::ji("smile")`
 `r emo::ji("cupid")`
