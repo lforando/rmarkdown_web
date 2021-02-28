@@ -1,12 +1,29 @@
 ---
-title: "Welcome to my website"
+title: "Welcome to my website!"
 subtitle: "This website was created by Lauren Forando, a data science and psychology student at Smith College."
 output:
   html_document:
     toc: false
 ---
 
-![](https://giphy.com/gifs/justin-hSLDN6zfh2Yy4ekMWi)
+![](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
 
+<p>&nbsp;</p>
 
+<font size = "4.5">$\color{hotpink}{\text{Check out my coding playlist }}$[**here**](https://open.spotify.com/playlist/7AYUKJwDYLbKO4LYWcnscF?si=re3FM6LSRT6udGMF2HQ81g&nd=1)</font>
+
+`r emo::ji("smile")`
+`r emo::ji("cupid")`
+`r emo::ji("moon")`
+`r emo::ji("butterfly")`
+`r emo::ji("woman_technologist")`
+`r emo::ji("cherries")`
+`r emo::ji("cherry_blossom")`
+`r emo::ji("smile")`
+`r emo::ji("cupid")`
+`r emo::ji("moon")`
+`r emo::ji("butterfly")`
+`r emo::ji("woman_technologist")`
+`r emo::ji("cherries")`
+`r emo::ji("cherry_blossom")`
 
