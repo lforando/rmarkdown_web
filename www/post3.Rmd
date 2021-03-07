@@ -7,7 +7,7 @@ title: "Blog Post #3 - On Rational, Scientific, Objective Viewpoints from Mythic
 #### **Visuals Don't Tell the Whole Story**
 
 
- <img src="https://boostlabs.com/wp-content/uploads/2019/09/10-types-of-data-visualization-1.jpg" alt="Smiley face" height="400" width="400">
+ <img src="https://boostlabs.com/wp-content/uploads/2019/09/10-types-of-data-visualization-1.jpg" alt="Smiley face" height="400" width="600">
  
 <p>&nbsp;</p>
 
