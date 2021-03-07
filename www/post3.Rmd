@@ -1,0 +1,30 @@
+---
+title: "Blog Post #3 - On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints"
+---
+
+<p>&nbsp;</p>
+
+#### **Visuals Don't Tell the Whole Story**
+
+
+ <img src="https://boostlabs.com/wp-content/uploads/2019/09/10-types-of-data-visualization-1.jpg" alt="Smiley face" height="400" width="400">
+ 
+<p>&nbsp;</p>
+
+Being from Connecticut, Sandy Hook was an event that touched me and one I will never forget. When Adam Lanza carried out that horrific shooting, schools across the state went into lockdown. When people talk about Sandy Hook, they fail to analyze anything past guns. While Lanza did have access to guns, there are multiple other factors that influenced his violent act. While I appreciate the author's example of Periscopic's visualization of gun deaths in the United States, the author misses a huge point. Data can only tell us so much, and in the case of the Periscopic visualization we only see the trend of gun related deaths overtime. The visualization fails to consider extraneous and confounding variables that may influence *why* someone carried out that shooting.
+ 
+ <p>&nbsp;</p>
+ 
+#### **Logic > Emotion...Logic < Emotion**
+
+Moving on to the conversation regarding appearance of data visuals, I think there are two arguments at hand when discussing emotion. On one side, you can discuss how more interesting visuals lead to a more active and conscious discussion about the data topic because there is almost an "awe" effect happening. On the other side, we don't want to make visuals that invoke certain emotions that could result in unconscious bias. I think that it is important to consider what emotions you are trying to invoke and why. I do believe that reason and logic are often more important than emotions. I say this because emotions, the extent emotions are felt and expressed vary among individuals for a multitude of reasons. Emotions are essentially part of our human experience and are not always explained by logic. In other words, our emotions are often influenced by our own experiences and to base decisions on emotions is to base a decision on a single individual's experience. Additionally, coming from a psychological point of view not all humans experience the same emotions. To make decisions based on emotion is to almost exclude or diminish those who don't share the same experience. Also, some visual aspects are just not appropriate for the topic of interest. 
+
+Data visualization is a form of art, but the emotions it focuses on activating should be categorized more as "moods" such as interested, inquisitive, engaged, and excited. I think you can present data in a logical and "emotional" way, I don't think you have to choose one over the other. Finally, not everyone is a visual learner (or has the ability to see), so we need to be innovative and find other ways to showcase data that is inclusive for all learning types and abilities.
+
+<p>&nbsp;</p>
+
+Check out these funky ways to show data:
+
+- [Data Fashion](http://giorgialupi.com/giorgia-lupi-otherstories)
+- [Zine](https://www.marketcafemag.com/)
+- [Music](https://nathaliemiebach.com/weatherscores.html)
