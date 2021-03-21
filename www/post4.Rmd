@@ -1,0 +1,38 @@
+---
+title: "Blog Post #4 - Reflection on Chapter 3 and Chapter 4"
+---
+
+<p>&nbsp;</p>
+
+
+ <img src="https://i.ytimg.com/vi/zRwt25M5nGw/maxresdefault.jpg" alt="" height="400" width="600">
+ 
+<p>&nbsp;</p>
+
+### **What Gets Counted Counts**
+#### It is time to stop viewing individuals as nothing more than a data point. We need to take a more humanistic and wholistic approach when collecting and analyzing data, especially when it comes to race, gender, and sexual orientation.
+
+<p>&nbsp;</p>
+
+When it comes to data collection, we are often faced with an issue regarding organization and inclusion - *How do we collect data in an inclusive and representative way without overloading our dataset?* Variables such as **gender** have long been considered binary. However, recent social discussions have opened up the conversation on what and how gender is defined. Gender is different than biological sex, and is determined by the individual, not a doctor or social stereotypes. Many companies and government forms have now offered a third option when selecting your gender, which is a step in the right direction but still does not tell us the whole story. One example of a variable that is often the result of clumping multiple smaller variables is race. During a class discussion, a group I was in looked at how the U.S. census categorizes race. For example, individuals from European descent, Europe, the Middle East, Egypt, and South Africa are all considered White, yet if you were to look at individuals from each of these backgrounds, you would see a vast array of skin tones, languages, religions, and cultural values. The same can be said about individuals who are Chinese, Japanese, Korean, Hmong, Pakistani, and Pacific Islander. All of those individuals are considered Asian, but the way they look, their languages, history, customs, and values are very different from one another. Another interesting aspect is the idea of identifying more with the culture you were brought up in rather than the "genealogical" race you are. If someone is brought up with Italian traditions but is part Pacific Islander, do they identify as Asian or White? When we start clumping people into these larger groups, we view them as an "instance" instead of an individual. Today we fight back against stereotypes, yet continue to categorize and generalize people which only fuels stereotypes and assumptions. Humans are complex beings, and things such as gender and racial identity are personal identities that are determined by the individual. To try and encompass that complexity into a single categorization (or data point) is overtly grotesque in its simplicity, and undermines the individual and the group they identify with. As data scientists, we need to come up with better ways to collect, organize, and make assumptions about data while still viewing the individual as someone with multiple levels and identities. 
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src=https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/longform-lead-illustration-by-andrew-rae-1518023954.jpg?crop=1.00xw:1.00xh;0,0&resize=1600:*">
+ 
+<p>&nbsp;</p>
+
+### **Unicorns, Janitors, Ninjas, Wizards, and Rock Stars**
+#### None of these revelations are shocking. We are living through the fourth industrial revolution...the age of technology. 
+
+<p>&nbsp;</p>
+
+Chapter 4 starts off with discussing the article "America's Rich Get Richer and the Poor Get Replaced By Robots" which was published by Bloomberg in Spring 2017. Once again, this is a theme that is discussed in this textbook that isn't shocking or a huge revelation. We have seen jobs over the past 100 years slowly be replaced by technology, usually in the form of automation or robotics. A perfect example we are seeing now is in grocery stores. More and more grocery stores are providing self check-out machines than hiring workers to scan and bag groceries. This is also a common topic of debate when discussing a rise in minimum wage. From an economic standpoint, it would be cheaper overall to invest in a robot or self automated machine to take care of things like packaging and delivery than to hire someone and pay them a higher minimum wage. Unfortunately, many companies would take this option over hiring (or keeping) staff on because businesses are not in the business of helping people, they are in the business of making money. We are seeing this even now with food preparation and drink services in places like Japan where a robot takes your order and prepares your meal. The unfortunate part is that the way our society is set-up is that to have a well paying job that provides (some) security you usually have to go to college. With the rise of AI and ML, more and more service jobs will be replaced by robots and other automated machines. Those who will suffer the most will be those who do not have a skill set that a robot can't learn.
+
+
+Big tech has allowed for advancements in science and capitalism, but it has also allowed for an increase in depression, isolation, and a warped perception of reality. You can't have big tech without capitalism and vice versa. And while some ideas regarding capitalism may seem great and help those who are low-income, the advancements in technology may offer a cheaper solution to companies that would consequently end up harming low-income individuals. Nothing is black or white...it is all gray. But that is not a conversation people are ready to have. We still are naive and believe that big tech is "different" and cares about equality and equity more than other sectors, but they don't. They use you until you have no purpose (aka you no longer bring them a profit of some form) and then they replace you. 
+
+
